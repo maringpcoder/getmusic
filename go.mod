@@ -1,3 +1,3 @@
-module codeup.aliyun.com/659fb54d2b16bc2fd95d1eec/platform/stack-core
+module github.com/maringpcoder/getmusic
 
 go 1.19
